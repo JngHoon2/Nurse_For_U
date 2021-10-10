@@ -8,7 +8,9 @@ Konyang Univ. Medical IT 3-2 Project Repository
 Notify
 1. 마크다운 언어 상 최하위 파일들은 모두 pdf, word 파일을 포함하고 있음.
 2. FTP 서버에는 pdf 파일만 업로드 할 것
-''' bash
+
+
+```bash
 project   
 ├── 1. 계획   
 │       └── 1. 산출물 정의서   
@@ -39,4 +41,4 @@ project
         ├── 2. 이미지   
         ├── 3. 발표,업로드자료   
         └── 4. 레퍼런스   
-'''
+```
