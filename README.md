@@ -1,15 +1,7 @@
 # Info
 Konyang Univ. Medical IT 3-2 Project Repository
 
-# How to write commit massage
-변경 내용 + 날짜 + 이니셜 ex) 9월 26일, 이정훈, 회의록 추가 == 회의록추가_0926_ljh
-
 # File Directory
-Notify
-1. 마크다운 언어 상 최하위 파일들은 모두 pdf, word 파일을 포함하고 있음.
-2. FTP 서버에는 pdf 파일만 업로드 할 것
-
-
 ```bash
 project   
 ├── 1. 계획   
